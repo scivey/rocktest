@@ -1,0 +1,9 @@
+build
+*.pyc
+__pycache__
+tmp
+*.tmp
+*.log
+*~
+*.sublime-workspace
+
